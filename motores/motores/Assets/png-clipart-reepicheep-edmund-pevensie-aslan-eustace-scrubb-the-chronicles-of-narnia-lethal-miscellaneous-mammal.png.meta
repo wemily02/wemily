@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1934d67c4770cbf4297d8ce6ba941f04
+guid: a0a34c351170dee41afa89b8a9ffb2c1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8806485672808715214
-    second: PNG 1_0
+      213: 5806197158598975793
+    second: png-clipart-reepicheep-edmund-pevensie-aslan-eustace-scrubb-the-chronicles-of-narnia-lethal-miscellaneous-mammal_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PNG 1_0
+      name: png-clipart-reepicheep-edmund-pevensie-aslan-eustace-scrubb-the-chronicles-of-narnia-lethal-miscellaneous-mammal_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 310
-        height: 308
+        width: 900
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23c6ba870f319c580800000000000000
-      internalID: -8806485672808715214
+      spriteID: 131ac2e9d81c39050800000000000000
+      internalID: 5806197158598975793
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      PNG 1_0: -8806485672808715214
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
