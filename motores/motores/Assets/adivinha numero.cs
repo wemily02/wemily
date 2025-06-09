@@ -19,7 +19,7 @@ public class adivinhanumero : MonoBehaviour
 
     void Start()
     {
-        sorteado = rand.Next(menor, maior + 1),
+        sorteado = rand.Next(menor, maior + 1);
 
         Debug.Log("pensei em um número entre " + menor + " e " + maior + ",tente adivinhar. ");
     }
