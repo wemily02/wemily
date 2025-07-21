@@ -56,4 +56,14 @@ public class Player : MonoBehaviour
             noChao = false;
         }
     }
+    
+    void OnCollisionStay2D(Collision2D colisao)
+    {
+        //if (colisao.gameObject.tag == "Chao")
+        if(colisao.gameObject.CompareTag("Chao"))
+        {
+            noChao = true;
+        }
+    }
+
 }
