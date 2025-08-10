@@ -151,20 +151,20 @@ TextureImporter:
       name: Bananas_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 9
-        width: 16
-        height: 16
+        x: 9
+        y: 10
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5dd5d8b164e9f70b0800000000000000
-      internalID: -5728686177044832811
+      spriteID: 386ad60efbf12c942a3ba17cfd0f9eba
+      internalID: 1534032525
       vertices: []
       indices: 
       edges: []
@@ -173,20 +173,20 @@ TextureImporter:
       name: Bananas_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 9
-        width: 16
-        height: 16
+        x: 41
+        y: 10
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08e95fbe13a63bfa0800000000000000
-      internalID: -5786164333596270976
+      spriteID: ed6d02b59a10b8846920367dec39c2a9
+      internalID: 290395903
       vertices: []
       indices: 
       edges: []
@@ -195,20 +195,20 @@ TextureImporter:
       name: Bananas_2
       rect:
         serializedVersion: 2
-        x: 72
-        y: 9
-        width: 16
-        height: 16
+        x: 73
+        y: 10
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 375b82539f9e8fc40800000000000000
-      internalID: 5546440197654754675
+      spriteID: 88c9a94a76a5be64183a3b72bc9d7576
+      internalID: -577517167
       vertices: []
       indices: 
       edges: []
@@ -217,20 +217,20 @@ TextureImporter:
       name: Bananas_3
       rect:
         serializedVersion: 2
-        x: 104
-        y: 9
-        width: 16
-        height: 16
+        x: 105
+        y: 10
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: abedca7b9ffbe06f0800000000000000
-      internalID: -716424211456008518
+      spriteID: 048a41cbd201f8b4d9b77e1f5ca11bd5
+      internalID: -1978743231
       vertices: []
       indices: 
       edges: []
@@ -239,20 +239,20 @@ TextureImporter:
       name: Bananas_4
       rect:
         serializedVersion: 2
-        x: 136
-        y: 9
-        width: 16
-        height: 16
+        x: 137
+        y: 10
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 77ff62b30b19d86b0800000000000000
-      internalID: -5292413800997781641
+      spriteID: 5e36d06e8b781a840b9d76768c5181f9
+      internalID: 371608377
       vertices: []
       indices: 
       edges: []
@@ -261,20 +261,20 @@ TextureImporter:
       name: Bananas_5
       rect:
         serializedVersion: 2
-        x: 168
-        y: 8
-        width: 16
-        height: 18
+        x: 169
+        y: 9
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fa1aad51de3a75b90800000000000000
-      internalID: -7253148436187668049
+      spriteID: f33e254934a54414cbc78c4d8cad4ec9
+      internalID: 193112532
       vertices: []
       indices: 
       edges: []
@@ -283,20 +283,20 @@ TextureImporter:
       name: Bananas_6
       rect:
         serializedVersion: 2
-        x: 201
-        y: 7
-        width: 14
-        height: 21
+        x: 202
+        y: 8
+        width: 12
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 204631dbd9aa00770800000000000000
-      internalID: 8575041284972176386
+      spriteID: b22b47f7c1408774686c3b2096dab551
+      internalID: 704541748
       vertices: []
       indices: 
       edges: []
@@ -305,20 +305,20 @@ TextureImporter:
       name: Bananas_7
       rect:
         serializedVersion: 2
-        x: 233
-        y: 7
-        width: 14
-        height: 21
+        x: 234
+        y: 8
+        width: 12
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 40bd271c08f460230800000000000000
-      internalID: 3604655966176598788
+      spriteID: a1d1a42356fc9ef49b03c62965a5040f
+      internalID: -1366963172
       vertices: []
       indices: 
       edges: []
@@ -327,20 +327,20 @@ TextureImporter:
       name: Bananas_8
       rect:
         serializedVersion: 2
-        x: 265
-        y: 7
-        width: 14
-        height: 21
+        x: 266
+        y: 8
+        width: 12
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5695c836fb54bf3a0800000000000000
-      internalID: -6630629338061711003
+      spriteID: 9d803ad3d548aad49a1b0da4076f1e4b
+      internalID: 1771117293
       vertices: []
       indices: 
       edges: []
@@ -349,20 +349,20 @@ TextureImporter:
       name: Bananas_9
       rect:
         serializedVersion: 2
-        x: 296
-        y: 8
-        width: 16
-        height: 18
+        x: 297
+        y: 9
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4beb3e7292df62a80800000000000000
-      internalID: -8491821694155768140
+      spriteID: f29c1434bcac80246b0e68c6512bac14
+      internalID: 1608796595
       vertices: []
       indices: 
       edges: []
@@ -371,20 +371,20 @@ TextureImporter:
       name: Bananas_10
       rect:
         serializedVersion: 2
-        x: 328
-        y: 8
-        width: 16
-        height: 18
+        x: 329
+        y: 9
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 106a6f52d309a3370800000000000000
-      internalID: 8303107455315256833
+      spriteID: 0b073aa96dc68f34cbd648e22315a31a
+      internalID: 2046922520
       vertices: []
       indices: 
       edges: []
@@ -393,20 +393,20 @@ TextureImporter:
       name: Bananas_11
       rect:
         serializedVersion: 2
-        x: 359
-        y: 9
-        width: 18
-        height: 16
+        x: 360
+        y: 10
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5de234f58dde92b90800000000000000
-      internalID: -7266015010218627371
+      spriteID: 9d4db65384ea46042adbdfc24bba4a37
+      internalID: -676071941
       vertices: []
       indices: 
       edges: []
@@ -415,20 +415,20 @@ TextureImporter:
       name: Bananas_12
       rect:
         serializedVersion: 2
-        x: 390
-        y: 10
-        width: 20
-        height: 13
+        x: 391
+        y: 11
+        width: 18
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ac0025e63d5bb44b0800000000000000
-      internalID: -5455066603935629110
+      spriteID: 9926db5b06986594792f418aa57fbe31
+      internalID: 16179492
       vertices: []
       indices: 
       edges: []
@@ -437,20 +437,20 @@ TextureImporter:
       name: Bananas_13
       rect:
         serializedVersion: 2
-        x: 422
-        y: 10
-        width: 20
-        height: 13
+        x: 423
+        y: 11
+        width: 18
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c409c3d9087dd4de0800000000000000
-      internalID: -1347183766120132532
+      spriteID: 3ced3c54bdce15348b931de8b854f476
+      internalID: 64589615
       vertices: []
       indices: 
       edges: []
@@ -459,20 +459,20 @@ TextureImporter:
       name: Bananas_14
       rect:
         serializedVersion: 2
-        x: 454
-        y: 10
-        width: 20
-        height: 13
+        x: 455
+        y: 11
+        width: 18
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5b8038e8d15efed20800000000000000
-      internalID: 3310116166248368309
+      spriteID: 7d6bf70025f0d044ea5180df3af00913
+      internalID: -1947996052
       vertices: []
       indices: 
       edges: []
@@ -481,20 +481,20 @@ TextureImporter:
       name: Bananas_15
       rect:
         serializedVersion: 2
-        x: 487
-        y: 9
-        width: 18
-        height: 16
+        x: 488
+        y: 10
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f347306bfbf6f7960800000000000000
-      internalID: 7601917565207802943
+      spriteID: cee4c82b9097ba5498683282c2617d75
+      internalID: -1498079436
       vertices: []
       indices: 
       edges: []
@@ -503,20 +503,20 @@ TextureImporter:
       name: Bananas_16
       rect:
         serializedVersion: 2
-        x: 519
-        y: 9
-        width: 18
-        height: 16
+        x: 520
+        y: 10
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e0a5cd1f832b8fc80800000000000000
-      internalID: -8288679156529735154
+      spriteID: 68d840f9d8634a9459ce8d205d41bd97
+      internalID: 1897412895
       vertices: []
       indices: 
       edges: []
@@ -525,7 +525,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6015d171a5ffc2b4db2175380e68e5a5
     internalID: 0
     vertices: []
     indices: 
@@ -534,7 +534,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bananas_0: 1534032525
+      Bananas_1: 290395903
+      Bananas_10: 2046922520
+      Bananas_11: -676071941
+      Bananas_12: 16179492
+      Bananas_13: 64589615
+      Bananas_14: -1947996052
+      Bananas_15: -1498079436
+      Bananas_16: 1897412895
+      Bananas_2: -577517167
+      Bananas_3: -1978743231
+      Bananas_4: 371608377
+      Bananas_5: 193112532
+      Bananas_6: 704541748
+      Bananas_7: -1366963172
+      Bananas_8: 1771117293
+      Bananas_9: 1608796595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
