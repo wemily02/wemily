@@ -245,6 +245,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numero: 0
+  resposta: 0
+  menor: 0
+  maior: 10
+  numeroDeTentativas: 10
+  oJogoEstaRodando: 1
+  sorteado: 0
 --- !u!212 &1382272689
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -297,7 +303,7 @@ SpriteRenderer:
   m_Size: {x: 6.25, y: 6.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1382272690
@@ -342,6 +348,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numero: 0
+  resposta: 0
+  menor: 0
+  maior: 10
+  numeroDeTentativas: 10
+  oJogoEstaRodando: 1
+  sorteado: 0
 --- !u!114 &1382272693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -627,7 +639,7 @@ SpriteRenderer:
   m_Size: {x: 9.18, y: 5.15}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1909463609
